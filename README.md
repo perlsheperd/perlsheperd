@@ -40,6 +40,6 @@ Once a client relationship is established, prefer to have a monthly service cont
 
 # PRIVACY
 
-I am very discrete and will sign NDAs. Sometimes I require them.
+I am very discreet and will sign NDAs. Sometimes I require them myself.
 
 
