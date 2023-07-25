@@ -1,6 +1,6 @@
 # NAME
 
-perlsheperd
+perlsheperd - I initially prefer some project-based gigs via Fiverr, https://www.fiverr.com/perlsheperd.
 
 [CONTACT](https://www.fiverr.com/perlsheperd)
 :: [INQUIRE](https://www.fiverr.com/perlsheperd)
