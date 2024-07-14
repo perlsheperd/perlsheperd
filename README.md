@@ -1,13 +1,13 @@
 # NAME
 
-***perlsheperd*** - I initially prefer some project-based gigs via Fiverr, https://www.fiverr.com/perlsheperd.
+***perlsheperd*** - I initially prefer some project-based gigs via Fiverr, [https://www.fiverr.com/perlsheperd](https://coastalcomputingservices.net).
 
 [CONTACT](brett.estrade@coastalcomputingservices.net)
 :: [ABOUT ME](https://coastalcomputingservices.net)
 
 # SYNOPSIS
 
-Full stack Perl developer, but do only as much non-Perl as need to get back into the Perl. I don't do Windows, PHP, or Python (not worth your time or money!). I initially prefer some project-based gigs via Fiverr, https://www.fiverr.com/perlsheperd, this is mutually benefical for me and the client. Once a client relationship is established, prefer to have a monthly service contract of 10-15 hours/mo. Rates are negotiable, but start at 90/hr.
+Full stack Perl developer, but do only as much non-Perl as need to get back into the Perl. I don't do Windows, PHP, or Python (not worth your time or money!). I initially prefer some project-based gigs via Fiverr, https://www.fiverr.com/perlsheperd, this is mutually benefical for me and the client. Once a client relationship is established, prefer to have a monthly service contract of 10-15 hours/mo. Rates are negotiable, but start at $85/hr.
 
 # SERVICES
 
