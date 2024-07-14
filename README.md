@@ -2,9 +2,8 @@
 
 ***perlsheperd*** - I initially prefer some project-based gigs via Fiverr, https://www.fiverr.com/perlsheperd.
 
-[CONTACT](https://www.fiverr.com/perlsheperd)
-:: [INQUIRE](https://www.fiverr.com/perlsheperd)
-:: [HIRE ME](https://www.fiverr.com/perlsheperd) 
+[CONTACT](brett.estrade@coastalcomputingservices.net)
+:: [ABOUT ME](https://coastalcomputingservices.net)
 
 # SYNOPSIS
 
@@ -32,6 +31,6 @@ Perl is a modern miracle, but can be unforgiving to most. I love Perl. I'm a Per
 
 # PRIVACY
 
-I am very discreet and will sign NDAs. Sometimes I require them myself.
+I am very discreet and come with an automatic unilateral NDA. Sometimes I require them myself.
 
 
