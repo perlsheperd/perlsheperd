@@ -1,6 +1,6 @@
 # NAME
 
-***perlsheperd*** - I initially prefer some project-based gigs via Fiverr, [https://www.fiverr.com/perlsheperd](https://coastalcomputingservices.net).
+***perlsheperd***
 
 [CONTACT](brett.estrade@coastalcomputingservices.net)
 :: [ABOUT ME](https://coastalcomputingservices.net)
