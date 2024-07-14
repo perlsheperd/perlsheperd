@@ -2,8 +2,7 @@
 
 ***perlsheperd***
 
-[CONTACT](brett.estrade@coastalcomputingservices.net)
-:: [ABOUT ME](https://coastalcomputingservices.net)
+[CONTACT/ABOUT ME](https://coastalcomputingservices.net)
 
 # SYNOPSIS
 
