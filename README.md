@@ -1,12 +1,14 @@
 # NAME
 
-***perlsheperd***
+***Brett Estrade***
 
 [CONTACT/ABOUT ME](https://coastalcomputingservices.net)
 
 # SYNOPSIS
 
-Full stack Perl developer, but do only as much non-Perl as need to get back into the Perl. I initially prefer some project-based gigs, this is mutually benefical for me and the client. Once a client relationship is established, I find it mutually beneficial to have a monthly service contract of 10-15 hours/mo. Rates are negotiable, but start at $85/hr.
+Welcome to my professionally focused Github. You will find only private repos here.
+
+I am a full stack Perl developer, but do only as much non-Perl as need to get back into the Perl. I initially prefer some project-based gigs, this is mutually benefical for me and the client. Once a client relationship is established, I find it mutually beneficial to have a monthly service contract of 10-15 hours/mo. Rates are negotiable, but start at $85/hr.
 
 # SERVICES
 
@@ -30,6 +32,6 @@ Perl is a modern miracle, but can be unforgiving to most. I love Perl. I'm a Per
 
 # PRIVACY
 
-I am very discreet and come with an automatic unilateral NDA. Sometimes I require them myself.
+I come toting an automatic unilateral NDA. That means your business with me stays completely private by default.
 
 
