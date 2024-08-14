@@ -6,9 +6,13 @@
 
 # SYNOPSIS
 
-Welcome to my professionally focused Github. You will find only private repos here.
+Welcome to my professional and client focused Github. You will find only private repos here.
 
 I am a full stack Perl developer, but do only as much non-Perl as need to get back into the Perl. I initially prefer some project-based gigs, this is mutually benefical for me and the client. Once a client relationship is established, I find it mutually beneficial to have a monthly service contract of 10-15 hours/mo. Rates are negotiable, but start at $85/hr.
+
+I participate in the wild world of open source development as [OODLER577](https://github.com/oodler577) and the exciting world of coastal ocean modelling via [wwlwpd](https://github.com/wwlwpd).
+
+My open source CPAN portfolio is available on MetaCPAN under user [OODLER](https://metacpan.org/author/OODLER).
 
 # SERVICES
 
